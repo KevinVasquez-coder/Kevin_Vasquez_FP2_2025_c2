@@ -1,0 +1,14 @@
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\bin\Debug\net8.0\calculadorakevin.exe
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\bin\Debug\net8.0\calculadorakevin.deps.json
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\bin\Debug\net8.0\calculadorakevin.runtimeconfig.json
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\bin\Debug\net8.0\calculadorakevin.dll
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\bin\Debug\net8.0\calculadorakevin.pdb
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\calculadorakevin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\calculadorakevin.AssemblyInfoInputs.cache
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\calculadorakevin.AssemblyInfo.cs
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\calculadorakevin.csproj.CoreCompileInputs.cache
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\calculadorakevin.dll
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\refint\calculadorakevin.dll
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\calculadorakevin.pdb
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\calculadorakevin.genruntimeconfig.cache
+C:\Users\Frank\OneDrive\Escritorio\kevinitla\calculadorakevin\calculadorakevin\obj\Debug\net8.0\ref\calculadorakevin.dll
